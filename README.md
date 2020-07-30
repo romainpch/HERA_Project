@@ -1,6 +1,6 @@
-# Where to find what you need in my personnal jupyter notebook : 
+# Where to find what you need : 
 
-### FOLDER HMC : 
+### HMC : 
     
     Basic_HMC_introduction 
         Introduction to the Basic HMC code written from scrach thanks to
@@ -17,7 +17,7 @@
         
         
         
-### FOLDER Visibility
+### VISIBILITY
 
     Basic visibility visualisation
         First visualisation of the visibility for a simple model in 1 dimension
